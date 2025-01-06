@@ -20,10 +20,6 @@ Here are some of the highlights of this repository:
    - Class inheritance demos
    - Polymorphism and encapsulation examples
 
-3. **Mini-Projects (Still working on it)**
-   - To-do list application
-   - Library management system
-
 ## Feedback
 
 Your feedback and suggestions are invaluable! Feel free to open an issue or reach out to me if you have any ideas for improvements or new projects.
